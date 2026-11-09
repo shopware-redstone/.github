@@ -1,6 +1,6 @@
 name: Feature Request
 description: Make a feature request.
-labels: ["feature", "triage"]
+labels: ["feature"]
 body:
   - type: markdown
     attributes:
