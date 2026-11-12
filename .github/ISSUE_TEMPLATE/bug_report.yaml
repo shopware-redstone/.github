@@ -37,5 +37,5 @@ body:
     id: crd
     attributes:
       label: Your custom resource
-      description: Please copy and paste the custom resource for the operator. This will be automatically formatted into code, so no need for backticks. Please make sure to remove Credentials!!!
+      description: Please copy and paste your custom resource. This will be automatically formatted into code, so no need for backticks. Please make sure to remove Credentials!!!
       render: shell
